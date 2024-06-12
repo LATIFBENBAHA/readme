@@ -1,6 +1,7 @@
 Pour rédiger un manuel d'exploitation pour l'application APK Fria Furniture en Réalité Augmentée, je vais détailler les étapes d'installation, les fonctionnalités principales et les instructions d'utilisation basées sur le README fourni et le fichier APK que vous avez téléchargé. Voici une structure suggérée :
 
 ---
+
 # Manuel d'Exploitation de l'Application Fria Furniture en Réalité Augmentée
 
 ## Table des Matières
@@ -12,6 +13,7 @@ Pour rédiger un manuel d'exploitation pour l'application APK Fria Furniture en 
     - [Connexion](#connexion)
     - [Exploration du Catalogue](#exploration-du-catalogue)
     - [Placement des Modèles 3D](#placement-des-modèles-3d)
+    - [Mesure de l'Espace Réel](#mesure-de-lespace-réel)
     - [Sauvegarde](#sauvegarde)
 5. [Appareils Supportés](#appareils-supportés)
 6. [Dépannage](#dépannage)
@@ -38,6 +40,7 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
 
 ## Fonctionnalités Principales
 
+- **Mesure de l'emplacement réel** : Utilise AR pour mesurer votre espace réel.
 - **Recherche de meubles** : Trouvez des meubles avec des dimensions spécifiques.
 - **Placement de modèles 3D** : Placez des meubles virtuels dans votre maison.
 - **Prise de photos/vidéos** : Capturez des images et des vidéos de votre configuration.
@@ -51,7 +54,7 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
 
 2. **Écran de Connexion** :
     - Entrez vos informations de connexion (email et mot de passe).
-    - Si vous n'avez pas de compte, créez-en un via l'application(pas encore possible).
+    - Si vous n'avez pas de compte, créez-en un via l'application.
 
 ### Exploration du Catalogue
 
@@ -73,14 +76,21 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
     - Sélectionnez un meuble depuis le catalogue.
     - Utilisez votre caméra pour positionner le modèle dans votre espace.
 
-### Sauvegarde 
+### Mesure de l'Espace Réel
+
+1. **Outils de Mesure** :
+    - Utilisez l'outil de mesure intégré pour créer des boîtes 3D et mesurer votre espace réel.
+
+2. **Calibrage** :
+    - Assurez-vous que la surface est correctement calibrée pour des mesures précises.
+
+### Sauvegarde
 
 1. **Prendre des Photos/Vidéos** :
     - Utilisez les boutons de capture pour prendre des photos ou des vidéos de votre espace avec les meubles placés.
 
 2. **Sauvegarder** :
     - Les captures sont automatiquement enregistrées dans votre galerie.
-
 
 ## Appareils Supportés
 
