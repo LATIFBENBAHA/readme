@@ -1,7 +1,3 @@
-Pour rédiger un manuel d'exploitation pour l'application APK Fria Furniture en Réalité Augmentée, je vais détailler les étapes d'installation, les fonctionnalités principales et les instructions d'utilisation basées sur le README fourni et le fichier APK que vous avez téléchargé. Voici une structure suggérée :
-
----
-
 # Manuel d'Exploitation de l'Application Fria Furniture en Réalité Augmentée
 
 ## Table des Matières
