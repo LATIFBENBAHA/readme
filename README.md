@@ -54,7 +54,7 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
 
 2. **Écran de Connexion** :
     - Entrez vos informations de connexion (email et mot de passe).
-    - Si vous n'avez pas de compte, créez-en un via l'application.
+    - Si vous n'avez pas de compte, créez-en un via l'application(pas encore possible).
 
 ### Exploration du Catalogue
 
@@ -76,15 +76,7 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
     - Sélectionnez un meuble depuis le catalogue.
     - Utilisez votre caméra pour positionner le modèle dans votre espace.
 
-### Mesure de l'Espace Réel
-
-1. **Outils de Mesure** :
-    - Utilisez l'outil de mesure intégré pour créer des boîtes 3D et mesurer votre espace réel.
-
-2. **Calibrage** :
-    - Assurez-vous que la surface est correctement calibrée pour des mesures précises.
-
-### Sauvegarde et Partage
+### Sauvegarde 
 
 1. **Prendre des Photos/Vidéos** :
     - Utilisez les boutons de capture pour prendre des photos ou des vidéos de votre espace avec les meubles placés.
@@ -92,8 +84,6 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
 2. **Sauvegarder** :
     - Les captures sont automatiquement enregistrées dans votre galerie.
 
-3. **Partager** :
-    - Partagez vos photos et vidéos directement depuis l'application via les réseaux sociaux ou par email.
 
 ## Appareils Supportés
 
