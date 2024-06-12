@@ -13,8 +13,7 @@ Pour rédiger un manuel d'exploitation pour l'application APK Fria Furniture en 
     - [Connexion](#connexion)
     - [Exploration du Catalogue](#exploration-du-catalogue)
     - [Placement des Modèles 3D](#placement-des-modèles-3d)
-    - [Mesure de l'Espace Réel](#mesure-de-lespace-réel)
-    - [Sauvegarde et Partage](#sauvegarde-et-partage)
+    - [Sauvegarde](#sauvegarde)
 5. [Appareils Supportés](#appareils-supportés)
 6. [Dépannage](#dépannage)
 7. [Crédits](#crédits)
@@ -40,7 +39,6 @@ Bienvenue sur Fria! Fria est une application de planification de design de meubl
 
 ## Fonctionnalités Principales
 
-- **Mesure de l'emplacement réel** : Utilise AR pour mesurer votre espace réel.
 - **Recherche de meubles** : Trouvez des meubles avec des dimensions spécifiques.
 - **Placement de modèles 3D** : Placez des meubles virtuels dans votre maison.
 - **Prise de photos/vidéos** : Capturez des images et des vidéos de votre configuration.
