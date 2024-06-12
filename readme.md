@@ -1,7 +1,19 @@
 ### Rapport de Projet : Fria Furniture in Augmented Reality
 
 ---
+## Table des Matières
 
+1. [Présentation Globale](#présentation-globale)
+2. [Résumé du Travail](#résumé-du-travail)
+3. [Conclusion](#conclusion)
+4. [Bilan](#bilan)
+    - [Difficultés Rencontrées](#difficultés-rencontrées)
+    - [Apports du Projet](#apports-du-projet)
+    - [À Refaire](#à-refaire)
+5. [Perspectives](#perspectives)
+6. [Base de Données](#base-de-données)
+
+---
 #### Présentation Globale
 
 **Fria Furniture in Augmented Reality** est une application mobile de planification de meubles en réalité augmentée, développée comme projet final à l'université d'Aix-Marseille. L'application permet aux utilisateurs de visualiser des modèles 3D de meubles dans leur espace réel grâce à la technologie ARCore et Sceneform de Google. Fria vise à révolutionner la manière dont les utilisateurs planifient et achètent des meubles en offrant une solution immersive et pratique qui élimine le besoin de se rendre physiquement dans les magasins.
